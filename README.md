@@ -16,3 +16,7 @@ Escrito por __Jefferson Yuri__
 # Resumo do Laboratório Análise de Documentos Anti-fraude com AzureAI
 
 O professor utilizou um Storage Account e o serviço Document Intelligence para fazer um projeto que analisava documentos. No caso em questão ele estava analisando cartões de crédito.
+
+O professor demonstrou de maneira prática como criar um analisador de documentos com ambos os serviços. No caso em teste ele fez com Streamlit um analisador de cartões de crédito e utilizou um modelo pré-built do Document Intelligence para analisar se a imagem repassada era de um cartão de crédito ou de outra coisa.
+
+O laboratório foi de muito aprendizado para sabermos como utilizar o serviço de Document Intelligence.
