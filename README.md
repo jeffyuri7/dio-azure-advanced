@@ -12,3 +12,7 @@ Além disso, o professor traduziu um artigo por meio do fornecimento de uma url 
 Foi possível aprender com o laboratório a utilizar as ferramentas de tradução do Azure em ambientes reais de desenvolvimento.
 
 Escrito por __Jefferson Yuri__
+
+# Resumo do Laboratório Análise de Documentos Anti-fraude com AzureAI
+
+O professor utilizou um Storage Account e o serviço Document Intelligence para fazer um projeto que analisava documentos. No caso em questão ele estava analisando cartões de crédito.
